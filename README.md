@@ -1,6 +1,5 @@
 ![Hey there, I'm Ahmed Bakry. I'm a Full-Stack Developer, Edtech Leader. Check out my work](https://github.com/Bakriy790
-
-[!(https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/Bakriy?logo=GitHub&style=for-the-badge)]
+ &nbsp; [![GitHub followers](https://img.shields.io/github/followers/Bakriy?logo=GitHub&style=for-the-badge)
 
 # 👋 &nbsp;Hi there
 
