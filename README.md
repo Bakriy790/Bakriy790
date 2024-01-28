@@ -18,7 +18,7 @@ I'm currently working on [@Voice of Messenger. A project that combines AI techno
 ## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to think like a programmar]([https://cyris.io/blog/reverse-engineer-reolink](https://medium.com/@A.Bakry/how-to-think-like-a-programmer-96e9bb7159a6))
+- [How to think like a programmar]([https://medium.com/@A.Bakry/how-to-think-like-a-programmer-96e9bb7159a6](https://medium.com/@A.Bakry/how-to-think-like-a-programmer-96e9bb7159a6))
 
 <!-- BLOG-POST-LIST:END -->
 
