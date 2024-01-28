@@ -1,5 +1,4 @@
-![Hey there, I'm Ahmed Bakry. I'm a Full-Stack Developer, Edtech Leader. Check out my work](https://github.com/Bakriy790
- &nbsp; [GitHub followers](https://img.shields.io/github/followers/Bakriy?logo=GitHub&style=for-the-badge)
+Hey there, I'm Ahmed Bakry. I'm a Full-Stack Developer, Edtech Leader. Check out my work( https://github.com/Bakriy790
 
 # 👋 &nbsp;Hi there
 
